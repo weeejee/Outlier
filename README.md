@@ -1,6 +1,9 @@
 ## Outlier 부원 최지원
 ### 말하는 감자
 
+>✔소셜미디어 데이터를 이용한 탈모약 긍부정 평가 
+>✔
+<br/>
 <div align = "center">
   <h3 align="center">🛠️ 활용 가능 언어 🛠️</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
