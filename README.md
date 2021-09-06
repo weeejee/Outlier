@@ -1,4 +1,5 @@
-# Outlier 부원 최지원
+## Outlier 부원 최지원
+### 말하는 감자
 
 <div align = "center">
   <h3 align="center">🛠️ 활용 가능 언어 🛠️</h3>
