@@ -3,7 +3,7 @@
 
 <h3>👩‍💻About weeejee </h3>
 🏫Information and Statistics, DongDuk Women's Univ. <br/>
-✏️Studying Big Data Analytics, Data Science
+✏️Big Data Analytics, Data Science
 📍Seoul, Korea <br/>
 
 
